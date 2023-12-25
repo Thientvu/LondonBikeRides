@@ -29,24 +29,3 @@ This dataset provides historical data for bike sharing in London, powered by TfL
 
 ## License
 The dataset is provided under TfL's free transport data service, governed by the Open Government License 2.0 with specific amendments for Transport for London. Users are granted a worldwide, royalty-free, perpetual, non-exclusive license to use the information, with certain conditions such as attribution and adherence to traffic request limits.
-
-## Usage Guidelines
-- Acknowledge TfL as the source of the information.
-- Include attribution for Ordnance Survey derived data and Geomni UK Map data.
-- Protect TfL's intellectual property rights.
-- Limit traffic requests to a maximum of 300 calls per minute per data feed.
-- Provide accurate registration information.
-
-## Exemptions
-- This license does not transfer intellectual property rights.
-- It does not include personal data in the information.
-- Users cannot use the information after the license has ended.
-- Users are restricted from using data from specific websites for certain purposes.
-
-## Non-Endorsement
-The license does not grant the right to use the information in a way that suggests official status or endorsement by TfL.
-
-## Purpose
-The dataset aims to predict future bike shares by incorporating information on weather, holidays, and weekends.
-
-For more details on the dataset, refer to the [London Bike Sharing Dataset Notebook](link_to_notebook).
